@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Diarization<br>🌱 I’m currently learning pursuing BSc in Data Science<br>📫 My email: priyanshukumar33033@gmail.com<br>
+🔭 I’m currently working on Diarization<br>🌱 I’m currently learning pursuing BSc in Data Science<br>📫 My email: amanpandey3008@gmail.com<br>
 
 
 ## 🌐 Socials:
