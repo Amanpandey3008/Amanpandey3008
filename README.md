@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Diarization<br>🌱 I’m currently learning pursuing BSc in Data Science<br>📫 My email: amanpandey3008@gmail.com<br>
+🔭 currently working on LLM models and Ai Engineering<br>🌱 currently pursuing BSc in Data Science<br>📫 My email: amanpandey3008@gmail.com<br>
 
 
 ## 🌐 Socials:
